@@ -59,7 +59,7 @@ body{
 
 /* ================= HERO ================= */
 .hero{
-  background-image:url("images/black-gold-luxury-bg.png.jpeg");
+  background-image:url("../images/black-gold-luxury-bg.png.jpeg");
   background-size:cover;
   background-position:center;
   height:600px;
